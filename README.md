@@ -12,4 +12,4 @@ AI が人間らしく自然な文章を書くためのガイドラインとル�
 
 ## ライセンス
 
-MIT License - 詳細は [LICENSE](LICENSE) をご覧ください。
+詳細は [LICENSE](LICENSE) をご覧ください。
