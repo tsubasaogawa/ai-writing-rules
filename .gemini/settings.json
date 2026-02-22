@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "textlint": {
+      "command": "npx",
+      "args": [
+        "--yes",
+        "--package=textlint",
+        "--package=@textlint-ja/textlint-rule-preset-ai-writing",
+        "textlint",
+        "--mcp"
+      ]
+    }
+  }
+}
